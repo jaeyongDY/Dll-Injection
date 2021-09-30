@@ -6,7 +6,7 @@
 
 #pragma comment(lib,"urlmon.lib")
 
-#define DEF_URL  (L"http://www.gtec.ac.kr/index.do")
+#define DEF_URL  (L"http://www.naver.com/index.do")
 #define DEF_FILE_NAME (L"index.html")
 
 
